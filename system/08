@@ -1,0 +1,3 @@
+﻿Les clés RSA autorisées a se connecter via SSH se trouvent dans le chemin d'acces suivant:
+
+~/.ssh/authorized_keys
